@@ -1,2 +1,2 @@
-# competitive-programming
-An answer library for competitive programming written in python
+# competitive programming repo
+An answer library for competitive programming questions out there, written in python
